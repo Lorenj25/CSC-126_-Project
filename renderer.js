@@ -43,7 +43,7 @@ processBtn.addEventListener("click", async () => {
     } else {
       alert("Processing failed");
     }
-    //sadadsadas
+    //sadadsadasds
   } else {
     const form = new FormData();
     files.forEach(f => form.append("images", f));
