@@ -1,0 +1,13 @@
+{
+  "name": "image-electron-fastapi",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^25.0.0"
+  }
+}
+
